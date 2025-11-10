@@ -1,5 +1,5 @@
 # ColorSwatchBar
-SwatchBar Rainmeter skin. Displays color swatches in your taskbar, for easy cross application use.
+ColorSwatchBar Rainmeter skin. Displays color swatches in your taskbar, for easy cross application use.
 
 Cacto's pastel theme by [@JustCacto](https://twitter.com/JustCacto)
 
