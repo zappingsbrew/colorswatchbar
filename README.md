@@ -1,5 +1,5 @@
-# SwatchBar
-SwatchBar Rainmeter skin. Displays colour swatches in your taskbar, for easy cross application use.
+# ColorSwatchBar
+SwatchBar Rainmeter skin. Displays color swatches in your taskbar, for easy cross application use.
 
 Cacto's pastel theme by [@JustCacto](https://twitter.com/JustCacto)
 
@@ -34,8 +34,12 @@ Changing + and the + background colour:
 ## Manual installation 
 
 * Download installer from [rainmeter.net](https://rainmeter.net) 
-* Download the newest .rmskin from [releases](https://github.com/sceleri/swatchbar/releases)
+* Download the newest .rmskin from [releases](https://github.com/Zappingsbrew/colorswatchbar/releases)
 
-# TO-DO
+# REISIR'S WISHES
  * [ ] Add an option to swap the `+` to the end of the bar
  	* This will most likely require a large redo of the entire skin so don't expect it anytime soon Cacto
+
+# Credits
+
+Original [SwatchBar](https://github.com/reisir/swatchbar) by [@reisir](https://github.com/reisir)
